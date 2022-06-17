@@ -1,0 +1,2 @@
+npm i -S express mongoose bcrypt(encryptar) jsonwebtoken(crear y validarlos) express-jwt(libreria que utiliza jsonwebtoken para poder hacer la implementacion cuando estemos validando)
+npm i -S express mongoose bcrypt jsonwebtoken express-jwt
